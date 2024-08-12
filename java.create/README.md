@@ -1,4 +1,4 @@
-## Getting Started
+
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
@@ -11,7 +11,7 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.## Getting Started
 
 ## Dependency Management
 
@@ -175,3 +175,15 @@ double hoursWorked = 40; // hours worked
 
     grossPay = hoursWorked * payRate; // calculate gross pay
     System.out.println("Your gross pay is: $" + grossPay); // print gross pay
+
+## Wrapper Classes
+
+### Primitive Date Types
+
+int, double, long, float, boolean, char, byte
+
+### Wrapper Class
+
+Integer, Double, Long, Boolean, Char, Byte
+
+### String is an object and not a data type
